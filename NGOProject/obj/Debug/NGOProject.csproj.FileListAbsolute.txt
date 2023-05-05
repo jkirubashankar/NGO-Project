@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\NGOProject\NGOProject\bin\NGOProject.dll.config
+C:\Users\Administrator\source\repos\NGOProject\NGOProject\bin\NGOProject.dll
+C:\Users\Administrator\source\repos\NGOProject\NGOProject\bin\NGOProject.pdb
+C:\Users\Administrator\source\repos\NGOProject\NGOProject\obj\Debug\NGOProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NGOProject\NGOProject\obj\Debug\NGOProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NGOProject\NGOProject\obj\Debug\NGOProject.dll
+C:\Users\Administrator\source\repos\NGOProject\NGOProject\obj\Debug\NGOProject.pdb
+C:\Users\Sony\Desktop\NGOProject\NGOProject\bin\NGOProject.dll.config
+C:\Users\Sony\Desktop\NGOProject\NGOProject\bin\NGOProject.dll
+C:\Users\Sony\Desktop\NGOProject\NGOProject\bin\NGOProject.pdb
+C:\Users\Sony\Desktop\NGOProject\NGOProject\obj\Debug\NGOProject.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\NGOProject\NGOProject\obj\Debug\NGOProject.dll
+C:\Users\Sony\Desktop\NGOProject\NGOProject\obj\Debug\NGOProject.pdb
+C:\Users\Sony\Desktop\NGOProject\NGOProject\obj\Debug\NGOProject.csproj.AssemblyReference.cache
