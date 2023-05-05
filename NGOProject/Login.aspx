@@ -90,31 +90,6 @@
         </div>--%>
     </header>
 
-     <!-- ******************** Slider Starts Here ******************* -->
-    <div>
-        <!-- Set up your HTML -->
-        <div class="owl-carousel ">
-            <div >
-                <div class="item">
-                    <div><img src="assets/images/download%20(2).jpg"  height="800px"/></div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-offset-2 col-lg-8 col-md-offset-2 col-md-8 col-sm-12 col-xs-12">
-                                <div class="animated bounceInDown slider-captions">
-                                    
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            
-
-        </div>
-    </div>
-    <title>User Login</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" 
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"/>
 
@@ -126,7 +101,6 @@
             display:flex;
             align-items:center;
             flex-direction:column;
-            justify-content:center;
             width:100% !important;
             padding:20px;
             background-color:#f5f5f5 !important;
@@ -142,11 +116,11 @@
             padding:20px;
             border:1px white solid ;
             box-shadow:0 15px 10px -10px #acacac;
+            margin-top: 10px;
         }
 
     </style>
 
-</head>
 <body>
     <form id="form1" runat="server">
         <div class="wrapper1">
@@ -168,7 +142,7 @@
                 <asp:Button runat="server" ID="btnLogin" CssClass="btn btn-info form-control" Text="Login" OnClick="btnLogin_Click"/>                  
                 <br />
                 <asp:Label runat="server" ID="txtInfo" />
-                <asp:Button ID="Button1" runat="server" Text="Sign Up" class="btn btn-danger" style="position:relative; float:right; margin-right:68px;" OnClick="Button1_Click"  />
+                <asp:Button ID="Button1" runat="server" Text="Sign Up" class="btn btn-danger" style="position:relative; float:right;" OnClick="Button1_Click"  />
             </div>
 
         </div>

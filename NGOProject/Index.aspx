@@ -32,7 +32,7 @@
                 list-style: none;
                 margin: 0;
                 padding-left: 0;
-                width:1000px;
+                width: 1000px;
             }
 
             li {
@@ -79,15 +79,17 @@
                     width: 100%;
                 }
 
-                .content {
-  margin-left: 5%;
-}
-.sidebox {
-  margin-left: 10px;
-}
-.logo {
-  margin-left: -5px;
-}
+            .content {
+                margin-left: 5%;
+            }
+
+            .sidebox {
+                margin-left: 10px;
+            }
+
+            .logo {
+                margin-left: -5px;
+            }
         </style>
         <!-- ******************** Header Starts Here ******************* -->
         <header>
@@ -113,24 +115,24 @@
             <br />
             <br />
 
-            <div class="headwe-nav container-fluid" style="background-color:azure">
+            <div class="headwe-nav container-fluid" style="background-color: azure">
                 <br />
                 <br />
                 <br />
                 <br />
                 <br />
-                <br />             
+                <br />
 
 
-                <div class="container" style="background-color:antiquewhite">
-                    <div class="row" style=" margin-left: -50px;background-color:antiquewhite">
-                        <div class="col-lg-9 nav-div" style=" margin-left: -50px;background-color:antiquewhite">
-                            <nav role="navigation" style="margin-left: -50px;background-color:aqua"  class="navbar navbar-expand-lg navbar-light">
+                <div class="container" style="background-color: antiquewhite">
+                    <div class="row" style="margin-left: -50px; background-color: antiquewhite">
+                        <div class="col-lg-9 nav-div" style="margin-left: -50px; background-color: antiquewhite">
+                            <nav role="navigation" style="margin-left: -50px; background-color: aqua" class="navbar navbar-expand-lg navbar-light">
                                 <%--<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                           </button>--%>
-                                <div class="collapse navbar-collapse" style="background-color:antiquewhite" id="navbarTogglerDemo03">
-                                    <ul class="navbar-nav mr-auto mt-2 mt-lg-0" style="width:2000px">
+                                <div class="collapse navbar-collapse" style="background-color: antiquewhite" id="navbarTogglerDemo03">
+                                    <ul class="navbar-nav mr-auto mt-2 mt-lg-0" style="width: 2000px">
                                         <li class="nav-item active">
                                             <a class="nav-link" href="AboutUs.aspx">AboutUS</a>
                                         </li>
@@ -153,15 +155,14 @@
                                             <a class="nav-link" href="Voluteer.aspx">Volunteer</a>
                                         </li>
                                         <li class="nav-item">
-                                           <asp:Button ID="btnLogin" runat="server" Text="Login/Register"   OnClick="btnLogin_Click" />
+                                            <a class="nav-link" href="Login.aspx" style="color: blue; text-decoration: underline;">Login/Register</a>
                                         </li>
                                     </ul>
-                                     <div class="donat-btn">
-                                            
-                                        </div>
+                                    <div class="donat-btn">
+                                    </div>
                                 </div>
-                              
-                                 
+
+
                             </nav>
                         </div>
 
@@ -174,13 +175,13 @@
 
 
 
-        <div class="slider" style="margin-top:-170px">
+        <div class="slider" style="margin-top: -170px">
             <!-- Set up your HTML -->
             <div class="owl-carousel ">
                 <div class="slider-img">
                     <div class="item">
                         <div class="slider-img">
-                            <img src="assets/images/slider/R.jpg" height="400px"  />
+                            <img src="assets/images/slider/R.jpg" height="400px" />
                         </div>
 
                         <div class="container">
@@ -228,7 +229,7 @@
         <br />
         <br />
         <div class="about-us">
-            <div class="container">               
+            <div class="container">
                 <div class="about-row row">
                     <div class="col-md-8">
                         <div class="abut-detail">
@@ -317,28 +318,33 @@
 
 
 
-        <footer class="container-fluid footer-cont" style="background-color: #8ec343;margin-top:-100px">
+        <footer class="container-fluid footer-cont" style="background-color: #8ec343; margin-top: -100px">
             <div class="container">
                 <div class="footer-top row">
                     <br />
                     <br />
                     <br />
                     <br />
-                  <div class="col-md-4 foot-logo">
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                      <br />
-                      <h1> CONTACT US </h1>
-                        <h2>AMIT SINGHRAJ WELFARE & CHARITABLE TRUST(ASWCT)</h2>
-
-                        <%--<p>Donec venenatis metus at diam condimentum pretiuteger aliquet a turpis quis pel len tesque ueta turpis quis venenatissolelementum</p>--%>
-                        <ul>
-                            <li><i class="fas fa-map-marker-alt"></i>C.O: #B/1116,11th Floor Mittal Tower,Mg Road,Bangalore,Karnataka - 560001 Reg. Offc.: Y-Axis Institute Campus, Trimuhani, Shahganj, VIP Road Benta, Darbhanga, Bihar – 846003 </li>
-                            <li><i class="fas fa-mobile-alt"></i>+91 - 9507977671 </li>
-
-                        </ul>
+                    <div class="col-md-12 foot-logo">
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <p style="padding: 2px;">
+                            <h5>CONTACT US</h5>
+                        </p>
+                        <p style="padding: 2px;">
+                            AMIT SINGHRAJ WELFARE & CHARITABLE TRUST(ASWCT)
+                        </p>
+                        <p style="padding: 2px;">
+                            <i class="fas fa-map-marker-alt" style="margin-right: 5px;"></i>C.O: #B/1116,11th Floor Mittal Tower,Mg Road,Bangalore,Karnataka - 560001 <br />Reg. Offc.: Y-Axis Institute Campus, Trimuhani, Shahganj, VIP Road Benta, Darbhanga, Bihar – 846003
+                        </p>
+                        <p style="padding: 2px;">
+                            <i class="fas fa-mobile-alt" style="margin-right: 5px;"></i>+91 - 9507977671
+                        
+                        </p>
                     </div>
                 </div>
                 <%--<div class="foot-botom row">

@@ -12,3 +12,10 @@ C:\Users\Sony\Desktop\NGOProject\NGOProject\obj\Debug\NGOProject.csproj.CoreComp
 C:\Users\Sony\Desktop\NGOProject\NGOProject\obj\Debug\NGOProject.dll
 C:\Users\Sony\Desktop\NGOProject\NGOProject\obj\Debug\NGOProject.pdb
 C:\Users\Sony\Desktop\NGOProject\NGOProject\obj\Debug\NGOProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\jkirubashankar\NGO-Project\NGOProject\bin\NGOProject.dll.config
+C:\Users\Lenovo\Source\Repos\jkirubashankar\NGO-Project\NGOProject\bin\NGOProject.dll
+C:\Users\Lenovo\Source\Repos\jkirubashankar\NGO-Project\NGOProject\bin\NGOProject.pdb
+C:\Users\Lenovo\Source\Repos\jkirubashankar\NGO-Project\NGOProject\obj\Debug\NGOProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\jkirubashankar\NGO-Project\NGOProject\obj\Debug\NGOProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\jkirubashankar\NGO-Project\NGOProject\obj\Debug\NGOProject.dll
+C:\Users\Lenovo\Source\Repos\jkirubashankar\NGO-Project\NGOProject\obj\Debug\NGOProject.pdb
