@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Amith ngo Smarteyeapps.com</title>
+    <title>AMIT SINGHRAJ WELFARE AND CHARITABLE TRUST</title>
     <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
     <link rel="shortcut icon" href="assets/images/fav.jpg">
@@ -149,7 +149,9 @@
                                             <a class="nav-link" href="Voluteer.aspx">Volunteer</a>
                                         </li>
                                         <li class="nav-item">
-                                           <asp:Button ID="btnLogin" runat="server" Text="Login/Register" />
+                                           
+                                            <a class="nav-link" href="Login.aspx" style="color: blue; text-decoration: underline;">Login/Register</a>
+
                                         </li>
                                     </ul>
                                      <div class="donat-btn">
